@@ -1,0 +1,215 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="",Первый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 group-title="",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="",Матч ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="",НТВ
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="",Петербург 5 канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 group-title="",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 group-title="",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="",ТВЦ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="",Рен-ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 group-title="",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 group-title="",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 group-title="",ТВ-3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 group-title="",ПЯТНИЦА
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 group-title="",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 group-title="",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 group-title="",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="",МУЗ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 group-title="",БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="",АРИС 24
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=E19ufve-1uYAxmXOOadMSQ&e=2083605825&scheme=https
+#EXTINF:-1 group-title="",Первый канал HD
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1783606174
+#EXTINF:-1 group-title="",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="",Городской телеканал UTV HD
+https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-3103.rtbcdn.ru/2sWYYda2g8SE13emvXT53g/stream/genetta-412.ntv.rutube.ru/-hcUO5XAWZnGsIhLlWgM4Q/1784211224/673b559e08f8b99d65a4e8fbbceb911b/576p_stream.m3u8
+#EXTINF:-1 group-title="",Живая Природа HD
+https://s81169.cdn.ngenix.net/mdrm/CH_ZHIVAYAPRIRODAHD/manifest.mpd?token=5TNTJmNTIxN2IwNmI3NDliZjU2YzM0YTBiYTcwNDAxNGM
+#EXTINF:-1 group-title="",Глазами туриста HD
+https://s81169.cdn.ngenix.net/mdrm/CH_GLAZAMITURISTAHD/manifest.mpd?token=2kYjAxMjNhMmUxMGMzYmZlYTVlZTg1ODJlODliYzA1YjI
+#EXTINF:-1 group-title="",SUMIKO (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_SUMIKOHD/manifest.mpd?token=WsMzljMzNlMzdlYjM0ZjNhODZlMmEwODk4N2NhODcxYWU
+#EXTINF:-1 group-title="",Живи активно (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_ZHIVIAKTIVNOHD/manifest.mpd?token=ujZjQxYzhhZTJhNDAxMTUwMjFiMWNkOWUzMGE1ZjM2OGE
+#EXTINF:-1 group-title="",Городской телеканал UTV
+https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-3103.rtbcdn.ru/2sWYYda2g8SE13emvXT53g/stream/genetta-412.ntv.rutube.ru/-hcUO5XAWZnGsIhLlWgM4Q/1784211224/673b559e08f8b99d65a4e8fbbceb911b/576p_stream.m3u8
+#EXTINF:-1 group-title="",Тестовый телеканал
+https://cdn.jsdelivr.net/gh/Round2GlideKey/ufanettv/iptv/error.m3u8
+#EXTINF:-1 group-title="",8 канал
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="",Shopping Live
+https://s81169.cdn.ngenix.net/mdrm/CH_SHOPPINGLIFE/manifest.mpd?token=45MjI5YjgyOTdkZjU3NDJjMDI5YjQ3ZTNmNzAyYWZiYWU
+#EXTINF:-1 group-title="",Ювелирочка
+https://s81169.cdn.ngenix.net/mdrm/CH_JUVELIRTV/manifest.mpd?token=dfMWZlM2FhMDliYTk1MWM4MzZjNmRhYzM4YjVkN2E1OWM
+#EXTINF:-1 group-title="",MAGNAT (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_MAGNATHD/manifest.mpd?token=KjMDNmYTM4YTllMDExOWIxNDRlNmY3YWE5YWRiZDIyZTc
+#EXTINF:-1 group-title="",СТС (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_STSHD/manifest.mpd?token=4HZGQ3OWVlNzRkNTkyZmE2MWUwYmE3OTMxMTg0ZThmZTQ
+#EXTINF:-1 group-title="",Домашний (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_DOMASHNIYHD/manifest.mpd?token=URYzQ1YThiYmMwZmVlYTUxYzI3ZWRiYTgxN2I3NGQxNWU
+#EXTINF:-1 group-title="",ТНТ (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_TNTHD/manifest.mpd?token=7dYTZmMzUwOThjYmFhYzQ5NDQ1OGI5NThlMTUxNWJlYzg
+#EXTINF:-1 group-title="",ПЯТНИЦА (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_PYATNICAHD/manifest.mpd?token=2KYWIyNDE1OWJiYTQ2NGYwMDRiZTc5OGYwZDUzMDk1OWY
+#EXTINF:-1 group-title="",Рен-ТВ (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_RENTVHD/manifest.mpd?token=44ZTI3MTczZjU2YzlmMTUzYjYwMjM0YWI1MDY0MDRhN2M
+#EXTINF:-1 group-title="",ТВ-3 (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_TV3HD/manifest.mpd?token=dyZDIwNWRkN2NiMjljZDIwNjA5Y2U5YjJmZDIwZWRkZjY
+#EXTINF:-1 group-title="",НТВ (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_NTV_HD/manifest.mpd?token=7hNjRkZjczNTRiOTI1OWYyOTQwNWRkMGU5Zjg1MGY0NzE
+#EXTINF:-1 group-title="",РБК-ТВ
+https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
+#EXTINF:-1 group-title="",Вся Уфа HD
+https://cdn.jsdelivr.net/gh/Round2GlideKey/ufanettv/iptv/error.m3u8
+#EXTINF:-1 group-title="",Hollywood HD
+https://beeline.tv/PTBITXhRek14Y3pNNFFHT3lJRE14WVRZeGNUWmxKak01WURaemtEWnpNbU14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
+#EXTINF:-1 group-title="",Hollywood
+https://s70378.cdn.ngenix.net/amc/index.m3u8
+#EXTINF:-1 group-title="",КИНО ТВ
+https://s81169.cdn.ngenix.net/mdrm/CH_KINOTVHD/manifest.mpd?token=SdZTk2ZWE1Zjg1OTk5MzA1MjUyOTY1YWQwOTY1OGI4Mzg
+#EXTINF:-1 group-title="",Мужское кино (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_MUZHSKOEKINOHD/manifest.mpd?token=UjNmEzNDM1MzAwOGM5MmYyODY0NTIyNGMzOWQwODY2Nzc
+#EXTINF:-1 group-title="",Кинопоказ
+https://s81169.cdn.ngenix.net/mdrm/CH_KINOPOKAZHD/manifest.mpd?token=LkMGM1ZThjN2U5NWExMTFlODJhNmNiZWY0NTIzNmVmMzg
+#EXTINF:-1 group-title="",ЛЕГЕНДА (HD)
+https://cdn.jsdelivr.net/gh/Round2GlideKey/ufanettv/iptv/error.m3u8
+#EXTINF:-1 group-title="",Cinema (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_PARKRAZVLECHENIJ/manifest.mpd?token=LkMTYzYTFkNTIxM2YzZjczNTI5YjhjY2ViNDZjMDA2Yzc
+#EXTINF:-1 group-title="",Киномикс (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_KINOMIXHD/manifest.mpd?token=RtNTliMjVjYzM1MzIyZTI5N2NhM2U3ZDBkNGY4MjRjMGQ
+#EXTINF:-1 group-title="",Хит
+https://s81169.cdn.ngenix.net/mdrm/CH_HITHD/manifest.mpd?token=QoN2YzNDE0NDFiYTFkMGQ5OTcwMDQzMTc3NDZiZTkxMDA
+#EXTINF:-1 group-title="",Блокбастер
+https://cdn.jsdelivr.net/gh/Round2GlideKey/ufanettv/iptv/error.m3u8
+#EXTINF:-1 group-title="",Киноман
+https://s80718.cdn.ngenix.net/hls/CH_KINOMANHD/variant.m3u8
+#EXTINF:-1 group-title="",.Red (HD)
+https://sputnik24.tv/smotret/red-hd?136
+#EXTINF:-1 group-title="",.Black (HD)
+https://sputnik24.tv/smotret/black-hd?139
+#EXTINF:-1 group-title="",.Sci-Fi (HD)
+https://sputnik24.tv/smotret/sci-fi-hd?137
+#EXTINF:-1 group-title="",КИНОКОМЕДИЯ (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_KINOKOMEDIAHD/manifest.mpd?token=TgMTI2ZjZmYzExZThiYzFmMDIyMDhjMmMxZWVkODJjMTY
+#EXTINF:-1 group-title="",Комедия
+https://s81169.cdn.ngenix.net/mdrm/CH_KOMEDIA/manifest.mpd?token=44NTA1YTYwY2IyMDY3OGU2OTk1N2I0OWY4NWM5YWZlYjc
+#EXTINF:-1 group-title="",Камеди
+https://cdn.jsdelivr.net/gh/Round2GlideKey/ufanettv/iptv/error.m3u8
+#EXTINF:-1 group-title="",Аниме ТВ (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_ANIMETVHD/manifest.mpd?token=KJNmRlOTJhNjJhNjExOGYxNjY0YTdlNGZkYTRhYTM1MGM
+#EXTINF:-1 group-title="",FAN HD
+https://s81169.cdn.ngenix.net/mdrm/CH_FANHD/manifest.mpd?token=gyNGViNzJhMzlkMDIxOGU2YTcwYWE5ZWZlMmQ0YjJjYzQ
+#EXTINF:-1 group-title="",ТВ-XXI
+https://s81169.cdn.ngenix.net/mdrm/CH_TV21HD/manifest.mpd?token=wgMTJlZTI0MTMzNzJkY2YzMTcwMTU5NDdhNmQyMGRkNTE
+#EXTINF:-1 group-title="",Еврокино HD
+https://s81169.cdn.ngenix.net/mdrm/CH_EVROKINOHD/manifest.mpd?token=5UZGNiMGI0M2I5ZjRmZTc4OGVhNDBiOTY0MGZkMjQzNTE
+#EXTINF:-1 group-title="",Plan B (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_PLANBHD/manifest.mpd?token=vvMjg2YjZjOTQ0OTM1NTg1ZmE3ZTdhMTIwZTJiMzI2N2Y
+#EXTINF:-1 group-title="",AMEDIA HIT HD
+https://s81169.cdn.ngenix.net/mdrm/CH_AMEDIAHITHD/manifest.mpd?token=asNDJkMWVkNzY0YTkzYWMwOWJjNjZjMjA5NTg4MmY0NWU
+#EXTINF:-1 group-title="",Scream (HD)
+https://cdn.jsdelivr.net/gh/Round2GlideKey/ufanettv/iptv/error.m3u8
+#EXTINF:-1 group-title="",КИНОУЖАС (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=43OTA2YmRlNTc5MzgyNTI1ODYwY2I1NmUzZjI4NDA2NTc
+#EXTINF:-1 group-title="" tvg-id="noepg",НСТ
+https://s81169.cdn.ngenix.net/mdrm/CH_NSTV/manifest.mpd?token=MbMTQwYjBjZjM3MTM3ZjUxY2ExNGVmYzc3NDQ0OGU5ZmI
+#EXTINF:-1 group-title="",НТВ-ХИТ (HD)
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="",Amedia 1 HD
+https://s81169.cdn.ngenix.net/mdrm/CH_C01_HDAMEDIA/manifest.mpd?token=asMDA2NGEzYWEzNjdjZmEwZjEwNTAwZWJhMzA4N2Q2ZTY
+#EXTINF:-1 group-title="" tvg-id="noepg",Amedia 2
+https://s81169.cdn.ngenix.net/mdrm/CH_A2PROLYBOV/manifest.mpd?token=feZGU5ZjE4N2U1ZDk0Y2YyMDlhZjNjZjU4OTJiZmZiY2Y
+#EXTINF:-1 group-title="",FlixSnip
+https://s80718.cdn.ngenix.net/hls/CH_FLIXSNIPHD/variant.m3u8
+#EXTINF:-1 group-title="",Победа
+https://s81169.cdn.ngenix.net/mdrm/CH_POBEDAHD/manifest.mpd?token=bnOTdjN2EzYzllYzg5NmVhODhiY2ExNzFlZjVlNzc2N2Q
+#EXTINF:-1 group-title="",Дом Кино
+https://s81169.cdn.ngenix.net/mdrm/CH_DOMKINO/manifest.mpd?token=JhZTQ3MzRkNTQ4NDJjZGQ4MjMzOGFjNjAwNjk5YTdiNzY
+#EXTINF:-1 group-title="",Мосфильм. Золотая Коллекция
+https://s81169.cdn.ngenix.net/mdrm/CH_MOSFILMHD/manifest.mpd?token=14ZTFhN2U2ZTQ3ODRlMmFjZTE0MTlmZDNjODA5YTk5Yjk
+#EXTINF:-1 group-title="",Дом Кино ПРЕМИУМ HD
+https://s81169.cdn.ngenix.net/mdrm/CH_DOMKINOPREMIUMHD/manifest.mpd?token=IINmM4YjI4ZjZhNWNhNTE4YzIxZjYwMzBjMDI1NjU4ZDg
+#EXTINF:-1 group-title="",Родное кино
+https://s81169.cdn.ngenix.net/mdrm/CH_NTVPLUSNASHEKINO/manifest.mpd?token=4jNjdmYjE4ZjNjMWRlZjgyZTQ5MTIwNDZiMTZjNjNjNWI
+#EXTINF:-1 group-title="",Любимое Кино (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_LUBIMOE/manifest.mpd?token=1fYzg2NWRkMjkyMGJmYTExOGNhNjdhMTRmOWEyMWZiNzE
+#EXTINF:-1 group-title="",Патриот
+https://s81169.cdn.ngenix.net/mdrm/CH_PATRIOT/manifest.mpd?token=DsODMwZDUxZGQ5MDMyMGE1ODgwNWQ0OWI5ZGJmNTc4MmE
+#EXTINF:-1 group-title="",Наше новое кино
+https://s81169.cdn.ngenix.net/mdrm/CH_NTVPLUSNOVOEKINO/manifest.mpd?token=56MzY4NmE5YTRiNWJmNTc5NjdjODc1ZmRmZDIzYjRkNzU
+#EXTINF:-1 group-title="",Наше мужское
+https://limehd.tv/5252
+#EXTINF:-1 group-title="",Наш Кинопоказ
+https://limehd.tv/5266
+#EXTINF:-1 group-title="",Русский Иллюзион HD
+https://s81169.cdn.ngenix.net/mdrm/CH_RUSSIANILLUSION/manifest.mpd?token=nvMWIxMDEzYjMyMzQ4NzQ3OWVjNWJlYjMzZjRhODEzMzE
+#EXTINF:-1 group-title="",Иллюзион + HD
+https://s81169.cdn.ngenix.net/mdrm/CH_ULLUSIONPLUS/manifest.mpd?token=ufMmVjNTJkMzI4YjFkMjM3MDNhNWM5M2E5ZTBmYzc0NjE
+#EXTINF:-1 group-title="",Суббота!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="",СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 group-title="",Че!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 group-title="",КИНОСЕРИЯ (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_KINOSERIAHD/manifest.mpd?token=JhMGUwZjE3ZjMzZjIxN2VjNTVmYTcyYmVhZDk1OGZmYjU
+#EXTINF:-1 group-title="",КИНЕКО (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_C02_FOXHD/manifest.mpd?token=UUNTNhMmYwNDY1MWRiNmMyZjdjYzFlYjdkMmFlYzEyYTk
+#EXTINF:-1 group-title="",САПФИР (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_C04_FOXLIFEHD/manifest.mpd?token=rgOWNhOTQ1Mzg3NTBkYmU3YmUzNjNlMmNhMTVhZTc4Nzg
+#EXTINF:-1 group-title="",Киносвидание (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_KINODATEHD/manifest.mpd?token=HGYjAxNDU4ZDNhNzNmYmEyMjRmMGVlOTJiNTkxZDc5Yzk
+#EXTINF:-1 group-title="",START Air (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_STARTAIRHD/manifest.mpd?token=KfZDMyZWQ5M2QxY2Q1OGM4Y2I3ZTBhYjE4MTE0NTE1M2U
+#EXTINF:-1 group-title="",START World (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_STARTWORLDHD/manifest.mpd?token=96MGM3OWJhOWNmMTkxZGMwMTEyNWVhNzg3MDg3ZTM0OTA
+#EXTINF:-1 group-title="",Star Family (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_STARFAMILYHD/manifest.mpd?token=IjN2U1MThjOWQyZDM2YTMyZWIwZTM4MzY4MjU5YzQ5YjY
+#EXTINF:-1 group-title="",Русский роман
+https://s81169.cdn.ngenix.net/mdrm/CH_RUSSKIYROMANHD/manifest.mpd?token=kdMDI4YTYyYjExY2VlYzY3YzAzZDE3NGI3NTNiZTYzZTE
+#EXTINF:-1 group-title="",Про любовь
+https://sputnik24.tv/smotret/pro-lyubov?105
+#EXTINF:-1 group-title="",Bolt (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_BOLTHD/manifest.mpd?token=ThMjYxNzAxODU1ZTQ3N2JlZmMyYmQwZWY1OGE5NWJlNzM
+#EXTINF:-1 group-title="",Star Cinema (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_STARCINEMAHD/manifest.mpd?token=fdYWE2OGE5ZWUzNjY5MmViODY4OTljODBmYjc5N2RmOTA
+#EXTINF:-1 group-title="",Дорама (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_DORAMAHD/manifest.mpd?token=erODQ2YTM2Yjk1NzA5NjRmMjYzNzkzYmM4ZTU2ZTUzZjI
+#EXTINF:-1 group-title="",Индия
+https://s70378.cdn.ngenix.net/zee_tv/index.m3u8
+#EXTINF:-1 group-title="",ИНДИЙСКОЕ КИНО
+https://s70378.cdn.ngenix.net/india_tv/index.m3u8
+#EXTINF:-1 group-title="",Русский Детектив
+https://s81169.cdn.ngenix.net/mdrm/CH_C04_RUSSIANDETECTIVE/manifest.mpd?token=dfY2ZhZGVmMGVkYmYwOTE0ZjhmYmZmNmE3NTNiNWFjZTk
+#EXTINF:-1 group-title="",Русский Бестселлер
+https://s81169.cdn.ngenix.net/mdrm/CH_RUSSIANBESTSELLER/manifest.mpd?token=wdZTk3ZmJhNjI3ZTNhYjNmM2UzYmRjYTMzYzUyMzIwZTk
+#EXTINF:-1 group-title="",Мир сериала (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_MIRSERIALA/manifest.mpd?token=bgM2MzYjBhZDUwOGY4YjVhZjZhZjQwNjVkZDJlMzA1ZDE
+#EXTINF:-1 group-title="",НТВ Сериал (HD)
+https://s81169.cdn.ngenix.net/mdrm/CH_NTVSERIAL/manifest.mpd?token=2jYWVlZDczN2UwYjEwMDg3ZGNmZmNlMWFiMDA0NDcyNDU
